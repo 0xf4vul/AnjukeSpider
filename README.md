@@ -21,7 +21,7 @@ pip2.7 install request
 6. **SizeRange**、**PriceRange**、**UnitPriceRange**、**NumEnd**值必须为**数字**     
    
 #### 微信企业号相关   
-1. 创建微信企业号，并获取**CorpID**与**Secret**   
+1. [点击创建微信企业号](https://qy.weixin.qq.com/),并获取**CorpID**与**Secret**   
 2. 在通讯录中创建**标签**，并记录标签ID，添加到**Totag**     
 3. 创建**app**，并记录应用ID，添加到**AgentID***    
     
