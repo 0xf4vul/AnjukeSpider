@@ -23,7 +23,7 @@ pip2.7 install request
 #### 微信企业号相关   
 1. [点击创建微信企业号](https://qy.weixin.qq.com/),并获取**CorpID**与**Secret**   
 2. 在通讯录中创建**标签**，并记录标签ID，添加到**Totag**     
-3. 创建**app**，并记录应用ID，添加到**AgentID***    
+3. 创建**app**，并记录应用ID，添加到**AgentID**    
     
 ### 未完善  
 1. 未对接redis，因此循环执行脚本时，房源会重复提醒  
