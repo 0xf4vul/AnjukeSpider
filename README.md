@@ -12,9 +12,10 @@ pip2.7 install request
 1. 访问安居客网站，选择城市和小区后，复制当前网址，替换**AnjukeUrl**后面的网址   
 2. **SizeRange**为面积区间，既筛选**面积<SizeRange**的房源   
 3. **PriceRange**为总价区间，既筛选**总价<=PriceRange**的房源     
-4. **UnitPriceRange**为单间区间，既筛选"单价<=UnitPriceRange**的房源    
-5. **NumEnd**为页码区间**1-NumEnd** 
+4. **UnitPriceRange**为单间区间，既筛选**单价<=UnitPriceRange**的房源    
+5. **NumEnd**为页码区间**1-NumEnd**   
 6. **SizeRange**、**PriceRange**、**UnitPriceRange**、**NumEnd**值必须为**数字**     
+   
 #### 微信企业号相关   
 1. 创建微信企业号，并获取**CorpID**与**Secret**   
 2. 在通讯录中创建**标签**，并记录标签ID，添加到**Totag**     
