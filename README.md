@@ -7,7 +7,7 @@
 1. 安装**python2.7**、**pip**、**setuptools**    
 2. 安装requests   
 ```shell
-pip2.7 install request
+pip2.7 install requests
 ```
 
 ### 使用
